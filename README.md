@@ -10,6 +10,6 @@
 
 
 ## For Using Mail Sender 
-  * https://nodejs.org/en/
-  * https://maildev.github.io/maildev/
+  * [Download nodejs](https://nodejs.org/en/)
+  * [Check out how to enable maildev](https://maildev.github.io/maildev/)
   
